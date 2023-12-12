@@ -21,5 +21,5 @@ I am Patrick Brian Sicat, passionate about coding and skilled in database manage
 
 ## Contact Me
 
-- **Facebook:** [YourSicklyDead](https://www.facebook.com/YourSicklyDead)
+- **LinkedIn:** [Patrick](www.linkedin.com/in/patrick-sicat-677abb2a3)
 - **Email:** briansicat.01@gmail.com
